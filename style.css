@@ -7,6 +7,16 @@ header {
     color: rgb(50, 205, 50);
 }
 
+li {
+    color: blue;
+}
+
+
+
+a:visited {
+    color: blue;
+}
+
 a:hover {
     color: rgb(50, 205, 50);
     font-weight: bold;
