@@ -26,7 +26,11 @@ a:hover {
 }
 
 
-footer {
+/* footer {
     position: fixed;
     bottom: 0;
+} */
+
+.social-icons {
+    padding: 0 10px;
 }
